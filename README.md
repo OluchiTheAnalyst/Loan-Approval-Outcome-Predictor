@@ -1,7 +1,7 @@
 # Loan-Approval-Outcome-Predictor
 
 ## Project Overview
-This project aimed to build a predictive Machine Learning model for real-time user interaction. New users can input their details,and the trained model analyzes the new input by comparing it to what it has learned from past data, then it makes an intelligent decision using Streamlit.
+This project is aimed to build a predictive Machine Learning model for real-time user interaction. New users can input their details,and the trained model analyzes the new input by comparing it to what it has learned from past data, then it makes an intelligent decision using Streamlit.
 
 ## Data Source
 the data is a "Banking data.xlsx" file containing 5,000 customer records from a banking institution, capturing demographic details, financial behavior, credit card usage, and loan history. These insights enabled both historical analysis and predictive modeling.
